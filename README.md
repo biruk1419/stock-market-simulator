@@ -41,7 +41,6 @@ Stock prices can change randomly after transactions, simulating market movement.
 
 ## Example
 
-```text
 --- Stock Market Menu ---
 1. View Stocks
 2. Buy Stock

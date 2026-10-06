@@ -55,7 +55,7 @@ choose stock to buy
 1, Apple: $150.0
 2, Tesla: $250.0
 3, Google: $180.0
-```
+
 
  What I Learned
 

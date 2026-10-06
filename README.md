@@ -57,11 +57,11 @@ choose stock to buy
 3, Google: $180.0
 ```
 
-## What I Learned
+ What I Learned
 
 This project helped me practice Java programming concepts including arrays, loops, conditionals, methods, file input/output, exception handling, and data persistence.
 
-## Future Improvements
+ Future Improvements
 
 * Add a graphical user interface
 * Add more realistic stock price movement
